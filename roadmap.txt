@@ -1,0 +1,4 @@
+npm init -y
+tsc -init 
+prod - npm install config dotenv express express-validator mongoose morgan winston
+dev - npm install @types/config @types/express @types/mongoose @types/morgan @types/node ts-node-dev typescript --save-dev

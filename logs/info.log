@@ -1,0 +1,148 @@
+2024-05-09 07:44:22 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 07:45:32 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 07:45:37 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 07:45:37 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 07:45:57 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 07:45:57 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 07:46:15 [31merror[39m: [31mErro ao conectar ao banco[39m
+2024-05-09 07:46:15 [31merror[39m: [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m
+2024-05-09 07:46:15 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 07:46:21 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 07:46:21 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 07:46:41 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 07:46:41 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 07:46:49 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 07:46:49 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 07:53:58 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 07:53:58 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 07:54:02 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 07:54:02 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 07:54:15 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 07:54:15 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 07:54:35 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 07:54:35 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 07:55:06 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 07:55:06 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 07:56:22 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 07:56:22 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:04:22 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:04:22 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:06:40 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:06:40 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:06:53 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:06:53 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:07:05 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:07:05 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:07:31 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:07:31 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:07:38 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:07:38 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:08:05 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:08:05 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:16:29 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:16:29 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:16:35 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:16:35 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:16:51 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:16:51 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:20:26 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:20:26 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:21:14 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:21:14 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:21:39 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:21:39 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:21:56 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:21:56 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:22:05 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:22:05 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:22:40 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:22:40 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:23:37 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:23:37 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:23:43 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:23:43 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:24:57 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:24:57 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:25:17 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:25:17 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:26:47 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:26:47 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:29:50 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:29:50 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:33:31 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:33:31 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:33:42 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:33:42 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:34:15 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:34:15 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:34:36 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:34:36 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:34:41 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:34:41 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:35:53 [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "663cb3ff0032c06a599368c" (type string) at path "_id" for model "Movie"[39m
+2024-05-09 08:38:07 [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "663cb3ff0032c06a599368c95" (type string) at path "_id" for model "Movie"[39m
+2024-05-09 08:38:17 [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "34434" (type string) at path "_id" for model "Movie"[39m
+2024-05-09 08:39:52 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:39:52 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:40:42 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:40:42 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:40:49 [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "663cb3ff0032c06a599368c" (type string) at path "_id" for model "Movie"[39m
+2024-05-09 08:41:50 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:41:50 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:42:10 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:42:10 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:42:18 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:42:18 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:42:24 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:42:24 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:42:33 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:42:33 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:42:51 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:42:51 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:43:05 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:43:05 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:43:14 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:43:14 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:43:21 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:43:21 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:43:39 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:43:39 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:44:59 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:44:59 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:45:15 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:45:15 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:45:42 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:45:42 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:46:19 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:46:19 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:46:45 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:46:45 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:47:15 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:47:15 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:47:55 [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "663cb3ff0032c06a599368c" (type string) at path "_id" for model "Movie"[39m
+2024-05-09 08:48:56 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:48:56 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:49:24 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:49:24 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:54:54 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:54:54 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:55:00 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:55:00 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:55:07 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:55:07 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:55:13 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:55:13 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:55:24 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:55:24 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:55:59 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:55:59 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:57:12 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:57:12 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:57:21 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:57:21 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:57:30 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:57:30 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 08:57:41 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 08:57:41 [32minfo[39m: [32mserver listening on 3000[39m
+2024-05-09 09:01:07 [32minfo[39m: [32mConectado ao banco de dados[39m
+2024-05-09 09:01:07 [32minfo[39m: [32mserver listening on 3000[39m

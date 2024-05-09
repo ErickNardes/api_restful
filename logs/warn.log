@@ -1,0 +1,7 @@
+2024-05-09 07:46:15 [31merror[39m: [31mErro ao conectar ao banco[39m
+2024-05-09 07:46:15 [31merror[39m: [31mInvalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"[39m
+2024-05-09 08:35:53 [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "663cb3ff0032c06a599368c" (type string) at path "_id" for model "Movie"[39m
+2024-05-09 08:38:07 [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "663cb3ff0032c06a599368c95" (type string) at path "_id" for model "Movie"[39m
+2024-05-09 08:38:17 [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "34434" (type string) at path "_id" for model "Movie"[39m
+2024-05-09 08:40:49 [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "663cb3ff0032c06a599368c" (type string) at path "_id" for model "Movie"[39m
+2024-05-09 08:47:55 [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "663cb3ff0032c06a599368c" (type string) at path "_id" for model "Movie"[39m
